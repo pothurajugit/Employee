@@ -1,0 +1,46 @@
+.empname {
+    font-weight: 500;
+}
+.footercolor {
+    background-color: #63cdff;
+    color: black;
+}
+.card-style {
+    cursor: pointer;
+}
+
+.imgcard-style {
+    width: 100%;
+    max-height: 210px;
+    min-height: 210px;
+}
+
+
+
+
+/* Responsive */
+/* @media screen and (min-width:1280px) and (max-width:1900px) {
+    .card-style {
+        margin: 20px;
+    }
+} */
+@media screen and (min-width:762px) and (max-width:1279px) {
+    .card-style {
+        margin: 0px;
+    }
+    .empname {
+        font-weight: 500;
+        font-size: 11px;
+    }
+}
+@media screen and (max-width:700px) {
+    .card-style {
+        margin: 0px;
+        margin-top: 15px;
+    }
+    .total_count {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+}
+

@@ -1,0 +1,10 @@
+.btn-1 {
+    font-size: 15px;
+    font-weight: 500;
+    padding: 0px 4.9px;
+}
+.btn-sm {
+    background-color: #63cdff;
+    border-color: #63cdff;
+    color: black;
+}

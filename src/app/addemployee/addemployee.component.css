@@ -1,0 +1,13 @@
+label {
+    font-weight: 500;
+}
+.card_style {
+    width: 26vw;
+    border: 1.7px solid #63cdff;
+}
+.btn-2 {
+    background-color: #63cdff;
+    border-color: #63cdff;
+    color: white;
+    font-weight: 500;
+}

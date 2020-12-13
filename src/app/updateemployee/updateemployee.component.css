@@ -1,0 +1,27 @@
+label {
+    font-weight: 500;
+}
+.card_style {
+    width: 26vw;
+    border: 2px solid #63cdff;
+}
+.btn-2 {
+    background-color: #63cdff;
+    border-color: #63cdff;
+    color: white;
+    font-weight: 500;
+}
+.small_text {
+    font-weight: 400;
+}
+.btn-3 {
+    padding: 8px 40px;
+    font-weight: 500;
+}
+
+@media screen and (max-width:700px) {
+    .btn-3 {
+        padding: 0px 0px;
+        font-weight: 500;
+    }
+}

@@ -1,0 +1,14 @@
+.img_style {
+    width: 100%;
+    min-height: 270px;
+    max-height: 300px;
+}
+.row-style {
+    padding: 30px;
+}
+
+.page-item.active .page-link {
+    background-color: #63cdff !important;
+    border-color: #63cdff !important;
+    font-weight: 500;
+}
