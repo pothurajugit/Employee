@@ -37,7 +37,7 @@ export class AddemployeeComponent implements OnInit {
     employeData(employedata) {
       if (employedata) {
         this.employeeservice.addEmployee(employedata.value,this.imgUrl);
-        // employedata.reset();
+        employedata.reset();
       }
     }
 }
